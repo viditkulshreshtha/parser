@@ -115,7 +115,6 @@ public class ProcessorService {
             Matcher matcher = pattern.matcher(str);
             if (matcher.find()) {
                 count++;
-//                log.info(String.valueOf(count));
                 return currentLog.substring(matcher.start(), matcher.end());
             } else {
                 return "";
