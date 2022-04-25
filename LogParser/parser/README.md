@@ -20,4 +20,5 @@
 4. Run the application
 4. Visit ```localhost:8080/swagger-ui.html``` for the API documentation.
 5. To upload a file to the application using swagger, visit ```POST /api/v1/logs``` and upload the file.
+6. A sample log file ```log-small.txt``` is there in the root folder which is used as a reference for logs.
 
