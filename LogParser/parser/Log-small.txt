@@ -1,0 +1,112 @@
+2018-09-23 04:49:38,215 ERROR (default task-95)
+IP-Address=111.11.141.111#,!User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64;
+Trident/7.0; rv:11.0) like
+Gecko#,!X-Request-From=UIX#,!Request-Type=GET#,!API=/v1/admin/developers#,!U
+ser-Login=test@demo.com#,!User-Name=testUser#,!EnterpriseId=21#,!EnterpriseNam
+e=Enterprise-1#,!Auth-Status=SUCCESS#,!Status-Code=200#,!Response-Time=1233#,!Request
+-Body={request body}
+2018-09-23 04:49:38,215 ERROR (default task-95)
+IP-Address=111.11.141.111#,!User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64;
+Trident/7.0; rv:11.0) like
+Gecko#,!X-Request-From=UIX#,!Request-Type=GET#,!API=/v1/admin/developers#,!U
+ser-Login=test@demo.com#,!User-Name=testUser#,!EnterpriseId=21#,!EnterpriseNam
+e=Enterprise-1#,!Auth-Status=SUCCESS#,!Status-Code=200#,!Response-Time=1233#,!Request
+-Body={request body}
+2018-09-23 04:49:38,215 ERROR (default task-95)
+IP-Address=111.11.141.111#,!User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64;
+Trident/7.0; rv:11.0) like
+Gecko#,!X-Request-From=UIX#,!Request-Type=GET#,!API=/v1/admin/developers#,!U
+ser-Login=test@demo.com#,!User-Name=testUser#,!EnterpriseId=21#,!EnterpriseNam
+e=Enterprise-1#,!Auth-Status=SUCCESS#,!Status-Code=200#,!Response-Time=1233#,!Request
+-Body={request body}
+2018-09-23 04:49:38,215 ERROR (default task-95)
+IP-Address=111.11.141.111#,!User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64;
+Trident/7.0; rv:11.0) like
+Gecko#,!X-Request-From=UIX#,!Request-Type=GET#,!API=/v1/admin/developers#,!U
+ser-Login=test@demo.com#,!User-Name=testUser#,!EnterpriseId=21#,!EnterpriseNam
+e=Enterprise-1#,!Auth-Status=SUCCESS#,!Status-Code=200#,!Response-Time=1233#,!Request
+-Body={request body}
+2018-09-23 04:49:38,215 ERROR (default task-95)
+IP-Address=111.11.141.111#,!User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64;
+Trident/7.0; rv:11.0) like
+Gecko#,!X-Request-From=UIX#,!Request-Type=GET#,!API=/v1/admin/developers#,!U
+ser-Login=test@demo.com#,!User-Name=testUser#,!EnterpriseId=21#,!EnterpriseNam
+e=Enterprise-1#,!Auth-Status=SUCCESS#,!Status-Code=200#,!Response-Time=1233#,!Request
+-Body={request body}
+2018-09-23 04:49:38,215 ERROR (default task-95)
+IP-Address=111.11.141.111#,!User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64;
+Trident/7.0; rv:11.0) like
+Gecko#,!X-Request-From=UIX#,!Request-Type=GET#,!API=/v1/admin/developers#,!U
+ser-Login=test@demo.com#,!User-Name=testUser#,!EnterpriseId=21#,!EnterpriseNam
+e=Enterprise-1#,!Auth-Status=SUCCESS#,!Status-Code=200#,!Response-Time=1233#,!Request
+-Body={request body}
+2018-09-23 04:49:38,215 ERROR (default task-95)
+IP-Address=111.11.141.111#,!User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64;
+Trident/7.0; rv:11.0) like
+Gecko#,!X-Request-From=UIX#,!Request-Type=GET#,!API=/v1/admin/developers#,!U
+ser-Login=test@demo.com#,!User-Name=testUser#,!EnterpriseId=21#,!EnterpriseNam
+e=Enterprise-1#,!Auth-Status=SUCCESS#,!Status-Code=200#,!Response-Time=1233#,!Request
+-Body={request body}
+2018-09-23 04:49:38,215 ERROR (default task-95)
+IP-Address=111.11.141.111#,!User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64;
+Trident/7.0; rv:11.0) like
+Gecko#,!X-Request-From=UIX#,!Request-Type=GET#,!API=/v1/admin/developers#,!U
+ser-Login=test@demo.com#,!User-Name=testUser#,!EnterpriseId=21#,!EnterpriseNam
+e=Enterprise-1#,!Auth-Status=SUCCESS#,!Status-Code=200#,!Response-Time=1233#,!Request
+-Body={request body}
+2018-09-23 04:49:38,215 ERROR (default task-95)
+IP-Address=111.11.141.111#,!User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64;
+Trident/7.0; rv:11.0) like
+Gecko#,!X-Request-From=UIX#,!Request-Type=GET#,!API=/v1/admin/developers#,!U
+ser-Login=test@demo.com#,!User-Name=testUser#,!EnterpriseId=21#,!EnterpriseNam
+e=Enterprise-1#,!Auth-Status=SUCCESS#,!Status-Code=200#,!Response-Time=1233#,!Request
+-Body={request body}
+2018-09-23 04:49:38,215 ERROR (default task-95)
+IP-Address=111.11.141.111#,!User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64;
+Trident/7.0; rv:11.0) like
+Gecko#,!X-Request-From=UIX#,!Request-Type=GET#,!API=/v1/admin/developers#,!U
+ser-Login=test@demo.com#,!User-Name=testUser#,!EnterpriseId=21#,!EnterpriseNam
+e=Enterprise-1#,!Auth-Status=SUCCESS#,!Status-Code=200#,!Response-Time=1233#,!Request
+-Body={request body}
+2018-09-23 04:49:38,215 ERROR (default task-95)
+IP-Address=111.11.141.111#,!User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64;
+Trident/7.0; rv:11.0) like
+Gecko#,!X-Request-From=UIX#,!Request-Type=GET#,!API=/v1/admin/developers#,!U
+ser-Login=test@demo.com#,!User-Name=testUser#,!EnterpriseId=21#,!EnterpriseNam
+e=Enterprise-1#,!Auth-Status=SUCCESS#,!Status-Code=200#,!Response-Time=1233#,!Request
+-Body={request body}
+2018-09-23 04:49:38,215 ERROR (default task-95)
+IP-Address=111.11.141.111#,!User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64;
+Trident/7.0; rv:11.0) like
+Gecko#,!X-Request-From=UIX#,!Request-Type=GET#,!API=/v1/admin/developers#,!U
+ser-Login=test@demo.com#,!User-Name=testUser#,!EnterpriseId=21#,!EnterpriseNam
+e=Enterprise-1#,!Auth-Status=SUCCESS#,!Status-Code=200#,!Response-Time=1233#,!Request
+-Body={request body}
+2018-09-23 04:49:38,215 ERROR (default task-95)
+IP-Address=111.11.141.111#,!User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64;
+Trident/7.0; rv:11.0) like
+Gecko#,!X-Request-From=UIX#,!Request-Type=GET#,!API=/v1/admin/developers#,!U
+ser-Login=test@demo.com#,!User-Name=testUser#,!EnterpriseId=21#,!EnterpriseNam
+e=Enterprise-1#,!Auth-Status=SUCCESS#,!Status-Code=200#,!Response-Time=1233#,!Request
+-Body={request body}
+2018-09-23 04:49:38,215 ERROR (default task-95)
+IP-Address=111.11.141.111#,!User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64;
+Trident/7.0; rv:11.0) like
+Gecko#,!X-Request-From=UIX#,!Request-Type=GET#,!API=/v1/admin/developers#,!U
+ser-Login=test@demo.com#,!User-Name=testUser#,!EnterpriseId=21#,!EnterpriseNam
+e=Enterprise-1#,!Auth-Status=SUCCESS#,!Status-Code=200#,!Response-Time=1233#,!Request
+-Body={request body}
+2018-09-23 04:49:38,215 ERROR (default task-95)
+IP-Address=111.11.141.111#,!User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64;
+Trident/7.0; rv:11.0) like
+Gecko#,!X-Request-From=UIX#,!Request-Type=GET#,!API=/v1/admin/developers#,!U
+ser-Login=test@demo.com#,!User-Name=testUser#,!EnterpriseId=21#,!EnterpriseNam
+e=Enterprise-1#,!Auth-Status=SUCCESS#,!Status-Code=200#,!Response-Time=1233#,!Request
+-Body={request body}
+2018-09-23 04:49:38,215 ERROR (default task-95)
+IP-Address=111.11.141.111#,!User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64;
+Trident/7.0; rv:11.0) like
+Gecko#,!X-Request-From=UIX#,!Request-Type=GET#,!API=/v1/admin/developers#,!U
+ser-Login=test@demo.com#,!User-Name=testUser#,!EnterpriseId=21#,!EnterpriseNam
+e=Enterprise-1#,!Auth-Status=SUCCESS#,!Status-Code=200#,!Response-Time=1233#,!Request
+-Body={request body}
