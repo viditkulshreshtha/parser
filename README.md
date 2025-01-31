@@ -22,3 +22,6 @@
 5. To upload a file to the application using swagger, visit ```POST /api/v1/logs``` and upload the file.
 6. A sample log file ```log-small.txt``` present in root folder is used as a reference for logs.
 
+
+//updated readme
+
